@@ -27,7 +27,7 @@ P.S.
 Please bear with us while we work on making the code less spaghetti like
 
 
-
+Bottom left shows intraoperative fiducial, bottom right is the calibration phantom, both under fluoroscopic imaging. Design files in the repo.
 
 
 <p align="center">
