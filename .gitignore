@@ -1,0 +1,2 @@
+# Large videos are hosted on Hugging Face (see data/README.md), not in git.
+data/*.mkv
