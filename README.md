@@ -5,7 +5,7 @@
   <img src="PaperGifs/bmvtg_gif1.gif" height="300" />
 </p>
 
-This is the accompanying code repository for the paper "Bridging the Markerless Tracking Validation Gap: Intraoperative X-ray Workflow Integration", by Connor Daly[1], Salvatore Russo[2], Jinendra Ekanayake[3], Professor Daniel Elson[1] and Professor Ferdinando Rodriguez y Baena[1].<br>
+This is the accompanying code repository for the paper "Bridging the Markerless Tracking Validation Gap: Intraoperative X-ray Workflow Integration", by Connor Daly[1], Salvatore Russo[2], Jinendra Ekanayake[3], Daniel Elson[1] and Ferdinando Rodriguez y Baena[1].<br>
 [1] Imperial College London
 [2] Imperial College Healthcare Trust NHS
 [3] Stanford University
